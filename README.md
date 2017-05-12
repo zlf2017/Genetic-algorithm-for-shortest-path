@@ -1,7 +1,7 @@
 # Genetic-algorithm-for-shortest-path
 Genetic algorithm for shortest path
 
-It is a sample trying for GA in seraching shortest path.
+It is a sample of GA using in seraching shortest path.
 Actually,my case has no high accuracy to find the shortest path.Sometimes it gives a wrong answer.
 In the crossing part,I use PMX(PaniallyMappedcrossover,PMx) operator,but some papers figure out that it is not a good way and 
 next time I will try IX operator.
